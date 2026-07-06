@@ -1,0 +1,2 @@
+https://customersegmentation-k-meanclustering.streamlit.app/
+https://github.com/sfk2021/CustomerSegmentation
